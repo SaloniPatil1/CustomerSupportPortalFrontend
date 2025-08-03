@@ -1,0 +1,36 @@
+.custom-card-column {
+  background-color: white; /* Set your desired background color */
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3); /* Custom box shadow */
+  padding: 20px; /* Add padding around the card */
+  margin-top: 70px; /* Adjust as needed */
+  width: 90vh; /* Adjust the height as needed */
+}
+/* Register.css */
+
+.validation-error {
+  color: red;
+  font-size: 14px;
+  margin-top: 4px;
+}
+
+.alert-fail {
+  background-color: red;
+  color: white;
+}
+
+.alert-success {
+  background-color: green;
+  color: white;
+}
+/* Increase font size for alert messages */
+.alert {
+  font-size: 14px;
+  margin-top: 20px; /* Adjust the size as needed */
+}
+.custom-label-font-size label {
+  font-size: 16px; 
+  padding-bottom: 10px;/* Adjust the size as needed */
+}
+.custom-input-font-size input {
+  font-size: 15px; /* Adjust the size as needed */
+}

@@ -1,0 +1,132 @@
+{
+  "LandingHeader": {
+    "title": "Welcome to Our Customer Support Portal",
+    "paragraph": "We're here to assist you with any questions, concerns, or issues you may have. Our dedicated support team is ready to help you find solutions and provide excellent customer service."
+  },
+  "About": {
+    "paragraph": "We are here to assist you with any inquiries or issues you may have. Our dedicated support team is committed to providing timely and effective solutions to ensure your satisfaction.",
+    "Why": [
+      "Experienced support professionals",
+      "Prompt and helpful responses",
+      "Customized solutions for your needs",
+      "Continuous improvement and feedback"
+    ],
+    "Why2": [
+      "Committed to your success",
+      "Efficient issue resolution",
+      "Friendly and knowledgeable staff",
+      "Enhancing your experience"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Award Ceremony",
+      "largeImage": "img/portfolio/award_ceremony (2).jpg",
+      "smallImage": "img/portfolio/award_ceremony (1).jpg"
+    },
+    {
+      "title": "Branch Opening",
+      "largeImage": "img/portfolio/branch_opening (2).jpg",
+      "smallImage": "img/portfolio/branch_opening (1).jpg"
+    },
+    {
+      "title": "Charity Event",
+      "largeImage": "img/portfolio/charity_event (2).jpg",
+      "smallImage": "img/portfolio/charity_event (1).jpg"
+    },
+    {
+      "title": "Cultural Event",
+      "largeImage": "img/portfolio/cultural_event (2).jpg",
+      "smallImage": "img/portfolio/cultural_event (1).jpg"
+    },
+    {
+      "title": "Customer Seminar",
+      "largeImage": "img/portfolio/customer_seminar (2).jpg",
+      "smallImage": "img/portfolio/customer_seminar (1).jpg"
+    },
+    {
+      "title": "Employee Recognition",
+      "largeImage": "img/portfolio/employee_recognition (2).jpg",
+      "smallImage": "img/portfolio/employee_recognition (1).jpg"
+    },
+    {
+      "title": "Mobile Banking",
+      "largeImage": "img/portfolio/mobile_banking (2).jpg",
+      "smallImage": "img/portfolio/mobile_banking (1).jpg"
+    },
+    {
+      "title": "Great Work Place",
+      "largeImage": "img/portfolio/great_work_place (2).jpg",
+      "smallImage": "img/portfolio/great_work_place (1).jpg"
+    },
+    {
+      "title": "Net Banking",
+      "largeImage": "img/portfolio/net_banking (2).jpg",
+      "smallImage": "img/portfolio/net_banking (1).jpg"
+    }
+  ],
+  
+    "Services": [
+      {
+        "icon": "fa fa-solid fa-landmark", 
+        "name": "Online Banking",
+        "text": "Access your bank accounts, transfer funds, pay bills, and manage your finances conveniently through our secure online banking platform."
+      },
+      {
+        "icon": "fa fa-solid fa-mobile",
+        "name": "Mobile Banking",
+        "text": "Stay connected to your finances on the go. Our mobile banking app allows you to perform various transactions and access account information from your mobile device."
+      },
+      {
+        "icon": "fa fa-solid fa-address-card",
+        "name": "E-Statements",
+        "text": "Opt for paperless statements. Receive your account statements electronically, reducing clutter and contributing to environmental sustainability."
+      },
+      {
+        "icon": "fa fa-solid fa-user",
+        "name": "Customer Support",
+        "text": "Our dedicated customer support team is available 24/7 to assist you with any queries, issues, or concerns you may have regarding your account or services."
+      },
+      {
+        "icon": "fa fa-plane",
+        "name": "International Transactions",
+        "text": "Send and receive money internationally with ease. Benefit from competitive exchange rates and reliable international money transfer services."
+      },
+      {
+        "icon": "fa fa-pie-chart",
+        "name": "Financial Planning",
+        "text": "Plan for your financial goals with the help of our expert financial advisors. Get guidance on investments, retirement planning, and wealth management."
+      }
+    ],
+  
+  "Contact": {
+    "address": "4321 Mumbai, Maharashtra, IN 675843 ",
+    "phone": "+91 879 453 7865",
+    "email": "customerportal45@gmsil.com",
+    "facebook": "https://www.facebook.com",
+    "twitter": "https://www.twitter.com",
+    "youtube": "https://www.youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
